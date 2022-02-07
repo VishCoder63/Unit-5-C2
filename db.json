@@ -9,6 +9,76 @@
       "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
       "gamerating": "5",
       "id": 1
+    },
+    {
+      "forkids": true,
+      "gamename": "fifa",
+      "gameauthor": "fifa",
+      "gameprice": "123",
+      "gametags": "sports",
+      "gamedesc": "good",
+      "gamerating": "3",
+      "id": 2
+    },
+    {
+      "forkids": true,
+      "gamename": "q",
+      "gameauthor": "q",
+      "gameprice": "123",
+      "gametags": "asd",
+      "gamedesc": "asdas",
+      "gamerating": "2",
+      "id": 3
+    },
+    {
+      "forkids": false,
+      "gamename": "asd",
+      "gameauthor": "asd",
+      "gameprice": "123",
+      "gametags": "asd",
+      "gamedesc": "asda",
+      "gamerating": "4",
+      "id": 5
+    },
+    {
+      "forkids": false,
+      "gamename": "12",
+      "gameauthor": "12",
+      "gameprice": "12",
+      "gamedesc": "11",
+      "gametags": "2",
+      "gamerating": "2",
+      "id": 6
+    },
+    {
+      "forkids": true,
+      "gamename": "fifa",
+      "gameauthor": "EA",
+      "gameprice": "999",
+      "gametags": "sports",
+      "gamedesc": "Great",
+      "gamerating": "4",
+      "id": 7
+    },
+    {
+      "forkids": true,
+      "gamename": "pes",
+      "gameauthor": "ea",
+      "gameprice": "123",
+      "gametags": "sports",
+      "gamedesc": "asd",
+      "gamerating": "3",
+      "id": 8
+    },
+    {
+      "forkids": false,
+      "gamename": "pes",
+      "gameauthor": "ea",
+      "gameprice": "123",
+      "gametags": "123",
+      "gamedesc": "asds",
+      "gamerating": "2",
+      "id": 9
     }
   ]
 }
